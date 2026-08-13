@@ -47,7 +47,7 @@ Example:
 
 
 
-Directory Operations
+# Directory Operations
 
 Supported operations:
 
@@ -77,11 +77,12 @@ Example:
 
 Output
 
-![Directory Operations](images/directory-operations.png)
+![Directory Operations]<img width="951" height="605" alt="directory-operations png" src="https://github.com/user-attachments/assets/66c87510-a44b-4ef1-89d7-efa662851f52" />
 
 
 
-File Creation and Content Operations
+
+# File Creation and Content Operations
 
 Supported operations:
 
@@ -107,15 +108,17 @@ Example:
 
 Output
 
-![File Operations](images/file-content.png)
-
-Beginning Content
-
-![Beginning Content](images/beginning-content.png)
+![File Operations]<img width="954" height="379" alt="file-content png" src="https://github.com/user-attachments/assets/34103ee7-f53c-4552-9e2c-88286b062ed1" />
 
 
+# Beginning Content
 
-Reading File Content
+![Beginning Content]<img width="953" height="398" alt="beginning-content png" src="https://github.com/user-attachments/assets/ddadd973-26c6-4425-a236-b4b8300d5758" />
+
+
+
+
+# Reading File Content
 
 Supported operations:
 
@@ -141,11 +144,11 @@ Example:
 
 Output
 
-![Read Operations](images/read-operations.png)
+![Read Operations] <img width="950" height="524" alt="read-operations png" src="https://github.com/user-attachments/assets/1a486709-72a3-4729-b7db-3c0ed661ee6b" />
 
 
 
-Move and Copy Operations
+# Move and Copy Operations
 
 Example:
 
@@ -157,11 +160,12 @@ Example:
 
 Output
 
-![Move and Copy](images/move-copy.png)
+![Move and Copy]<img width="951" height="365" alt="move-copy png" src="https://github.com/user-attachments/assets/93fbf00e-83de-4212-91d6-296abb32c290" />
 
 
 
-Clear and Delete Operations
+
+# Clear and Delete Operations
 
 Example:
 
@@ -175,21 +179,8 @@ Example:
 
 Output
 
-![Delete Operations](images/delete-operations.png)
+![Delete Operations]<img width="952" height="524" alt="delete-operations png" src="https://github.com/user-attachments/assets/9c361579-f7d4-4e48-8cdb-930b697aa69e" />
 
-
-
-Project Setup
-
-The script requires execute permission before running.
-
-```bash
-chmod +x FileManager.sh
-```
-
-Output
-
-![Project Setup](images/setup.png)
 
 
 
